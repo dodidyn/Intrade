@@ -1,13 +1,8 @@
-body {
-    min-height: 2000px;
-}
-
 .jumbotron {
-    padding-top: 2 rem;
+    padding-top: 7rem;
     background-color: #e4ebf0;
 }
 
-.about {
-    padding-left: 40px;
-    padding-right: 40px;
+#projects {
+    background-color: #e4ebf0;
 }
